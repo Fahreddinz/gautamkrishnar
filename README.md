@@ -12,8 +12,6 @@ This is the place where I opensource stuff and break things.
 <!-- BLOG-POST-LIST:START -->
 - [Devforum Post](https://devforum.roblox.com/t/open-pet-creator-modeler/2072667)
 - [Twitter Post](https://twitter.com/TfahreddinY/status/1514959941391560707)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
 <!-- BLOG-POST-LIST:END -->
 
 📠&nbsp;**How Can You Reach Me:**
@@ -41,7 +39,7 @@ Coming Soon! :)
 </details> 
 
 <details>
-  <summary><b>📈&nbsp;&nbsp;Commisions&nbsp;And Works:</b></summary>
+  <summary><b>📈&nbsp;&nbsp;Commisions And Works:</b></summary>
   <br/>
 Coming Soon! :)
   </a>
