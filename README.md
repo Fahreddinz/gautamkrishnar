@@ -4,7 +4,7 @@ This is the place where I opensource stuff and break things.
 - 🔭 &nbsp;I’m currently working on somethings cool :wink:
 - 🌱 &nbsp;I’m currently learning TypeScript!
 - 💬 &nbsp;Ask me about anything related to Javascript/CSS/Python or Lua.
-- 📫 &nbsp;How to reach me: [@TfahreddinY](https://twitter.com/TfahreddinY) or <a rel="Fahreddinz#6082" href="https://discord.com/channels/@me">Fahreddinz#6082</a>
+- 📫 &nbsp;How to reach me: [@Fahozz](https://twitter.com/Fahozz) or <a rel="Fahreddinz#6082" href="https://discord.com/channels/@me">Fahreddinz#6082</a>
 - 👨‍💻 &nbsp;Read more about my projects at [Devforum](https://devforum.roblox.com/t/open-pet-creator-modeler/2072667)
 
 📕&nbsp;**Latest Posts:**
@@ -27,7 +27,7 @@ Coming soon!
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me:</b></summary>
   <br/>
 
-> I am trying to be Full Stack Developer with 6 months years of experience in developing enterprise applications and open-source software.
+> I am trying to be Full Stack Developer with 7 months years of experience in developing enterprise applications and open-source software.
 
 ### My Opensource Story:
 Coming Soon! :)
@@ -36,11 +36,9 @@ Coming Soon! :)
 Coming Soon! :)
 </details> 
 
-<details>
-  <summary><b>📈&nbsp;&nbsp;Commisions And Works:</b></summary>
-  <br/>
+## Commisions and Works:
 Coming Soon! :)
-  </a>
+</details> 
 
 </details>
 
