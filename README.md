@@ -11,16 +11,15 @@ This is the place where I opensource stuff and break things.
 ------
 <!-- BLOG-POST-LIST:START -->
 - [Devforum Post](https://devforum.roblox.com/t/open-pet-creator-modeler/2072667)
-- [Twitter Post](https://twitter.com/TfahreddinY/status/1514959941391560707)
 <!-- BLOG-POST-LIST:END -->
 
 📠&nbsp;**How Can You Reach Me:**
 ------
 <p align="left">
 <a href="https://dev.to/fahreddinz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://twitter.com/TfahreddinY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://twitter.com/Fahozz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20906511/fahreddinz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://www.instagram.com/fahreddinzs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/fahozs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 📊&nbsp;**This Week I Spent My Time On:**
 ------
