@@ -4,7 +4,7 @@ This is the place where I opensource stuff and break things.
 - 🔭 &nbsp;I’m currently working on somethings cool :wink:
 - 🌱 &nbsp;I’m currently learning TypeScript!
 - 💬 &nbsp;Ask me about anything related to Javascript/CSS/Python or Lua.
-- 📫 &nbsp;How to reach me: [@Fahozz](https://twitter.com/Fahozz) or <a rel="Fahreddinz#6082" href="https://discord.com/channels/@me">Fahreddinz#6082</a>
+- 📫 &nbsp;How to reach me: [@Fahozz](https://twitter.com/Fahozz) or <a rel="Fahoz#0001" href="https://discord.com/channels/@me">Fahreddinz#6082</a>
 - 👨‍💻 &nbsp;Read more about my projects at [Devforum](https://devforum.roblox.com/t/open-pet-creator-modeler/2072667)
 
 📕&nbsp;**Latest Posts:**
